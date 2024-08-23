@@ -1,4 +1,4 @@
-# array API with sound - a tutorial
+# Tutorial: learning array API with sound
 
 This is a tutorial in which you will learn about the [array API](https://data-apis.org/array-api/latest/).
 It uses sound and sound effects as examples to illustrate how to write code
