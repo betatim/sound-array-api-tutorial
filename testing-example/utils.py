@@ -23,8 +23,6 @@ available_backends = {
 # * cupy, device can be `None`
 # * torch[cpu]
 # * torch[cuda]
-#
-# When the import succeeds (and cuda is available)
 
 
 def get_available_backends():

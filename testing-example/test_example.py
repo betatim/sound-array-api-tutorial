@@ -12,7 +12,7 @@ def normalize(arr):
 
 
 def test_normalize():
-    arr = np.array([1., 2., 3., 4., 5., 6.], dtype=np.float32)
+    arr = np.asarray([1., 2., 3., 4., 5., 6.], dtype=np.float32)
     res = normalize(arr)
 
     assert abs(np.mean(res)) < 1e-16
