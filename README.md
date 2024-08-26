@@ -8,6 +8,15 @@ Numpy, CuPy, PyTorch, etc.
 The target audience are people who want to write libraries or code that is agnostic
 to the type of the input arrays.
 
+The tutorial will not make you a master sound effects engineer. Sorry.
+
+
+## Preliminaries
+
+We will use [Google colab](https://colab.research.google.com/). This gives
+you an environment with a GPU and minimal setup. To use it you will need a
+Google account (create one if you don't already have one).
+
 
 ## Notebooks
 
@@ -17,7 +26,7 @@ it gives you access to a CUDA GPU.
 
 Click the links below to open each of the notebooks:
 
-* [Array API](https://colab.research.google.com/github/betatim/sound-array-api-tutorial/blob/main/01%20-%20array%20api.ipynb)
-* [Sound](https://colab.research.google.com/github/betatim/sound-array-api-tutorial/blob/main/02%20-%20sound.ipynb)
-* [Sound effects](https://colab.research.google.com/github/betatim/sound-array-api-tutorial/blob/main/03%20-%20sound%20effects.ipynb)
-* [Testing](https://colab.research.google.com/github/betatim/sound-array-api-tutorial/blob/main/04%20-%20simple%20testing.ipynb)
+1. [Array API](https://colab.research.google.com/github/betatim/sound-array-api-tutorial/blob/main/01%20-%20array%20api.ipynb)
+1. [Sound](https://colab.research.google.com/github/betatim/sound-array-api-tutorial/blob/main/02%20-%20sound.ipynb)
+1. [Sound effects](https://colab.research.google.com/github/betatim/sound-array-api-tutorial/blob/main/03%20-%20sound%20effects.ipynb)
+1. [Testing](https://colab.research.google.com/github/betatim/sound-array-api-tutorial/blob/main/04%20-%20simple%20testing.ipynb)
