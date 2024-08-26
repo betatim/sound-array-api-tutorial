@@ -26,7 +26,7 @@ it gives you access to a CUDA GPU.
 
 Click the links below to open each of the notebooks:
 
-1. [Array API](https://colab.research.google.com/github/betatim/sound-array-api-tutorial/blob/main/01%20-%20array%20api.ipynb)
-1. [Sound](https://colab.research.google.com/github/betatim/sound-array-api-tutorial/blob/main/02%20-%20sound.ipynb)
-1. [Sound effects](https://colab.research.google.com/github/betatim/sound-array-api-tutorial/blob/main/03%20-%20sound%20effects.ipynb)
-1. [Testing](https://colab.research.google.com/github/betatim/sound-array-api-tutorial/blob/main/04%20-%20simple%20testing.ipynb)
+1. [Array API](https://colab.research.google.com/github/betatim/sound-array-api-tutorial/blob/main/01%20-%20array%20api.ipynb) - introduction to why we need the array API
+1. [Sound](https://colab.research.google.com/github/betatim/sound-array-api-tutorial/blob/main/02%20-%20sound.ipynb) - introduction to sound
+1. [Sound effects](https://colab.research.google.com/github/betatim/sound-array-api-tutorial/blob/main/03%20-%20sound%20effects.ipynb) - creating a simple sound effect
+1. [Testing](https://colab.research.google.com/github/betatim/sound-array-api-tutorial/blob/main/04%20-%20simple%20testing.ipynb) - testing array API compatible code
